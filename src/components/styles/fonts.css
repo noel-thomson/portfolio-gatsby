@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "sf pro display";
+  src: url("../../fonts/SF-Pro-Display/300SFProDisplay-Light.ttf");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "sf pro display";
+  src: url("../../fonts/SF-Pro-Display/400SFProDisplay-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "sf pro display";
+  src: url("../../fonts/SF-Pro-Display/500SFProDisplay-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "sf pro display";
+  src: url("../../fonts/SF-Pro-Display/600SFProDisplay-Semibold.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "sf pro display";
+  src: url("../../fonts/SF-Pro-Display/700SFProDisplay-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "helvetica neue";
+  src: url("../../fonts/Helvetica-Neue/300HelveticaNeueLTPro-Lt.otf");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "helvetica neue";
+  src: url("../../fonts/Helvetica-Neue/400HelveticaNeueLTPro-Roman.otf");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "helvetica neue";
+  src: url("../../fonts/Helvetica-Neue/700HelveticaNeueLTPro-Bd.otf");
+  font-style: normal;
+  font-weight: 700;
+}
